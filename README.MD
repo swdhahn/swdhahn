@@ -13,7 +13,7 @@ Welcome to my Github page! I am Seth and I am currently finishing my Computer Sc
 #### 🌱 Things I am currently working on: 
 - Finish my Computer Science Bachelors Degree  
 - Improving my Graphics Programming Skills/Knowledge
-- My [Game Engine](https://github.com/swdhahn/bird-engine)
+- My :dart:[Game Engine](https://github.com/swdhahn/bird-engine)
 
 #### :muscle: Things I am challenging myself with:
 - Waking up at 6am to make good use of the day
@@ -38,7 +38,7 @@ Welcome to my Github page! I am Seth and I am currently finishing my Computer Sc
 
 </p>
 
-#### :computer: Programming Frameworks: 
+#### :electric_plug: Programming Frameworks: 
 <p>
 
 <img height="32" width="32" src="https://github.com/swdhahn/swdhahn/blob/main/android.svg" />&nbsp;
@@ -58,7 +58,7 @@ Welcome to my Github page! I am Seth and I am currently finishing my Computer Sc
 
 </p>
 
-#### :computer: Programming Tools: 
+#### :wrench: Programming Tools: 
 <p>
 
 <img height="32" width="32" src="https://github.com/swdhahn/swdhahn/blob/main/git.svg" />&nbsp;
