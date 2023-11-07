@@ -7,7 +7,7 @@
 
 Welcome to my Github page! I am Seth and I am currently finishing my Computer Science degree with Chapman University!  
 
-<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
+<img align="right" alt="img" src="https://github.com/swdhahn/swdhahn/blob/main/RenderEngineFromScratch.png" width="50%" height="auto" />
 
 
 #### 🌱 Things I am currently working on: 
@@ -25,26 +25,51 @@ Welcome to my Github page! I am Seth and I am currently finishing my Computer Sc
 <p>
 	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=swdhahn&show_icons=true&hide_border=true" />
 
-<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/python.svg" />&nbsp; 
-<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/java.svg" />&nbsp;
-<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/javascript.svg" />&nbsp; 
-<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/html5.svg" />&nbsp; 
-<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/css3.svg" />&nbsp; 
-<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/php.svg" />&nbsp; 
-<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/cplusplus.svg" />&nbsp;
-<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/gnubash.svg" />&nbsp;
+<img height="32" width="32" src="https://github.com/swdhahn/swdhahn/blob/main/cpp.svg" />&nbsp;
+<img height="32" width="32" src="https://github.com/swdhahn/swdhahn/blob/main/c.svg" />&nbsp;
+<img height="32" width="32" src="https://github.com/swdhahn/swdhahn/blob/main/java.svg" />&nbsp;
+<img height="32" width="32" src="https://github.com/swdhahn/swdhahn/blob/main/python.svg" />&nbsp;
+<img height="32" width="32" src="https://github.com/swdhahn/swdhahn/blob/main/ruby.svg" />&nbsp;
+<img height="32" width="32" src="https://github.com/swdhahn/swdhahn/blob/main/bash.svg" />&nbsp;
+<img height="32" width="32" src="https://github.com/swdhahn/swdhahn/blob/main/php.svg" />&nbsp;
+<img height="32" width="32" src="https://github.com/swdhahn/swdhahn/blob/main/html5.svg" />&nbsp;
+<img height="32" width="32" src="https://github.com/swdhahn/swdhahn/blob/main/css3.svg" />&nbsp;
+<img height="32" width="32" src="https://github.com/swdhahn/swdhahn/blob/main/javascript.svg" />&nbsp;
+
 </p>
 
 #### :computer: Programming Frameworks: 
 <p>
-	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=swdhahn&show_icons=true&hide_border=true" />
 
-<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/python.svg" />&nbsp; 
-<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/java.svg" />&nbsp;
-<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/javascript.svg" />&nbsp; 
-<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/html5.svg" />&nbsp; 
-<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/css3.svg" />&nbsp; 
-<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/php.svg" />&nbsp; 
-<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/cplusplus.svg" />&nbsp;
-<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/gnubash.svg" />&nbsp;
+<img height="32" width="32" src="https://github.com/swdhahn/swdhahn/blob/main/android.svg" />&nbsp;
+<img height="32" width="32" src="https://github.com/swdhahn/swdhahn/blob/main/arduino.svg" />&nbsp;
+<img height="32" width="32" src="https://github.com/swdhahn/swdhahn/blob/main/bootstrap.svg" />&nbsp;
+<img height="32" width="32" src="https://github.com/swdhahn/swdhahn/blob/main/firebase.svg" />&nbsp;
+<img height="32" width="32" src="https://github.com/swdhahn/swdhahn/blob/main/android.svg" />&nbsp;
+<img height="32" width="32" src="https://github.com/swdhahn/swdhahn/blob/main/jquery.svg" />&nbsp;
+<img height="32" width="32" src="https://github.com/swdhahn/swdhahn/blob/main/mongodb.svg" />&nbsp;
+<img height="32" width="32" src="https://github.com/swdhahn/swdhahn/blob/main/mysql.svg" />&nbsp;
+<img height="32" width="32" src="https://github.com/swdhahn/swdhahn/blob/main/nodejs.svg" />&nbsp;
+<img height="32" width="32" src="https://github.com/swdhahn/swdhahn/blob/main/openal.svg" />&nbsp;
+<img height="32" width="32" src="https://github.com/swdhahn/swdhahn/blob/main/opengl.svg" />&nbsp;
+<img height="32" width="32" src="https://github.com/swdhahn/swdhahn/blob/main/ssh.svg" />&nbsp;
+
+
+
+</p>
+
+#### :computer: Programming Tools: 
+<p>
+
+<img height="32" width="32" src="https://github.com/swdhahn/swdhahn/blob/main/git.svg" />&nbsp;
+<img height="32" width="32" src="https://github.com/swdhahn/swdhahn/blob/main/godot.svg" />&nbsp;
+<img height="32" width="32" src="https://github.com/swdhahn/swdhahn/blob/main/cmake.svg" />&nbsp;
+<img height="32" width="32" src="https://github.com/swdhahn/swdhahn/blob/main/android-studio.svg" />&nbsp; 
+<img height="32" width="32" src="https://github.com/swdhahn/swdhahn/blob/main/jetbrains.svg" />&nbsp;
+<img height="32" width="32" src="https://github.com/swdhahn/swdhahn/blob/main/vs.svg" />&nbsp;
+<img height="32" width="32" src="https://github.com/swdhahn/swdhahn/blob/main/vscode.svg" />&nbsp;
+<img height="32" width="32" src="https://github.com/swdhahn/swdhahn/blob/main/blender.svg" />&nbsp;
+<img height="32" width="32" src="https://github.com/swdhahn/swdhahn/blob/main/debian.svg" />&nbsp;
+<img height="32" width="32" src="https://github.com/swdhahn/swdhahn/blob/main/rpi.svg" />&nbsp;
+
 </p>
