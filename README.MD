@@ -4,7 +4,7 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/swdhahn)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/seth-hahn-3aa9b01b7/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:swdhahn@gmail.com)
-[![Website](https://img.shields.io/badge/Website-blue?style=flat&logo=Gmail&logoColor=white)](https://swdhahn.com)
+[![Website](https://img.shields.io/badge/Website-blue?style=flat&logo=Adafruit&logoColor=white)](https://swdhahn.com)
 
 Welcome to my Github page! I am Seth and I am currently finishing my Computer Science degree with Chapman University!  
 
