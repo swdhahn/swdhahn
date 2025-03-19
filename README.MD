@@ -13,8 +13,8 @@ Welcome to my Github page! I am Seth and I am currently finishing my Computer Sc
 
 #### 🌱 Things I am currently working on: 
 - Finish my Computer Science Bachelors Degree  
-- Improving my Graphics Programming Skills/Knowledge
-- My [Game Engine](https://github.com/swdhahn/bird-engine) :dart:
+- Improving my C Programming Skills/Knowledge
+- My [Current Project](https://github.com/swdhahn/http-server) :dart:
 
 #### :muscle: Things I am challenging myself with:
 - Waking up at 6am to make good use of the day
