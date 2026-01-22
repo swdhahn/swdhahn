@@ -6,20 +6,20 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:swdhahn@gmail.com)
 [![Website](https://img.shields.io/badge/Website-blue?style=flat&logo=Adafruit&logoColor=white)](https://swdhahn.com)
 
-Welcome to my Github page! I am Seth and I am currently finishing my Computer Science degree with Chapman University!  
+Welcome to my Github page! I am Seth and I just recently finished my Computer Science degree with Chapman University!  
 
 <img align="right" alt="img" src="https://github.com/swdhahn/swdhahn/blob/main/RenderEngineFromScratch.png" width="50%" height="auto" />
 
 
 #### 🌱 Things I am currently working on: 
-- Finish my Computer Science Bachelors Degree  
 - Improving my C Programming Skills/Knowledge
-- My [Current Project](https://github.com/swdhahn/http-server) :dart:
+- Improving my Linux workflow
+- My [Game Engine](https://github.com/swdhahn/bird-engine/) :dart:
 
 #### :muscle: Things I am challenging myself with:
-- Waking up at 6am to make good use of the day
+- Waking up at 5am to make good use of the day
 - Coding at least 4 hours a day
-- Exercise 5 days a week
+- Exercise 7 days a week (with 3 separate days of running)
 - Read at least an hour a day
 
 #### :computer: Programming Languages: 
